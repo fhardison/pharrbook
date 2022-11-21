@@ -5,7 +5,7 @@ date = "2022-11-21"
 +++
 
 
-## Grammar (γραμματική)
+## γραμματική (Grammar)
 
 **Greek words change form to show their function in a sentence and to tell us what or who they refer to.**
 
@@ -126,7 +126,7 @@ Greek ὄνοματα have the following attributes:
     * κλίσις Ο
     * κλίσις σύμφωνα
 
-## Vocabulary (λέξεις)
+## λέξεις (Vocabulary)
 
 * ἄνθρωπος 'human'
 * ἀρχή 'beginning'
@@ -144,7 +144,7 @@ Greek ὄνοματα have the following attributes:
 ἐν ἀρχῇ - 'in (the) beginning'
 
 
-## Exercises  (μελετήματα)
+## μελετήματα (Exercises)
 
 Read the following: 
 
