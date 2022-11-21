@@ -16,8 +16,8 @@ A noun is a person, place, thing, or idea. The Greek word for a noun is `ὄνο
 
 Greek nouns change their ending to show:
 
-* how many things they refer to (this is known as `ἀριθμός` or number), and
-* to show their role in the sentence (this is known as `πτώσεις` or case) 
+* how many things they refer to (known as `ἀριθμός` or number), and
+* to show their role in the sentence (known as `πτώσεις` or case) 
 
 
 **New Testament Greek has three ἀριθμοἰ**:{{% sidenote %}}ἀριθμ**οί** is the plural of ἀριθμ**ός**.{{% /sidenote %}}
@@ -33,12 +33,12 @@ For example, ὄνομα is singular. ὀνόματα is plural. Notice how the 
 
 Now we need to learn `ἔστιν`, which means 'is'. 
 
-We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' and is used when mentioning words like quotes or italics might be in English. When it is used this way we can think of its meaning as 'The word/phrase ___'. 
+We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' that is used when mentioning words. We can think of its meaning as 'The word/phrase ___' when it is used this way. 
 
-* τὸ ὄνομά ἐστιν ἑνικός. (The word ὄνομα is singular)
-* τὸ ὀνόμα**τά** ἐστι{{% sidenote %}} When ἔστιν comes before a word that starts with a consonant, the _ν_ usually disappears. This is called a movable nu. {{% /sidenote %}} πληθυντικός. (The word ὀνόματα is plural) 
-* τὸ ἀριμ**ὀς** ἐστιν ἑνικός. 
-* τὸ ἀριμ**οί** ἐστι πληθυντικὀς.  
+* τὸ ὄνομά ἐστιν ἑνικόν. (The word ὄνομα is singular)
+* τὸ ὀνόμα**τά** ἐστι{{% sidenote %}} When ἔστιν comes before a word that starts with a consonant, the _ν_ usually disappears. This is called a movable nu.{{% /sidenote %}} πληθυντικός. (The word ὀνόματα is plural) 
+* τὸ ἀριθμ**ὀς** ἐστιν ἑνικόν. 
+* τὸ ἀριθμ**οί** ἐστι πληθυντικὀν.  
 
 
 
