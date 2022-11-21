@@ -31,7 +31,9 @@ Greek nouns change their ending to show:
 
 For example, ὄνομα is singular. ὀνόματα is plural. Notice how the ending has changed. In the πλητυντικός there is _τα_.
 
-Now we need to learn `ἔστιν`, which means 'is'. We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' and is used when mentioning words like quotes or italics might be in English.
+Now we need to learn `ἔστιν`, which means 'is'. 
+
+We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' and is used when mentioning words like quotes or italics might be in English. When it is used this way we can think of its meaning as 'The word/phrase ___'. 
 
 * τὸ ὄνομά ἐστιν ἑνικός. (The word ὄνομα is singular)
 * τὸ ὀνόμα**τά** ἐστι{{% sidenote %}} When ἔστιν comes before a word that starts with a consonant, the _ν_ usually disappears. This is called a movable nu. {{% /sidenote %}} πληθυντικός. (The word ὀνόματα is plural) 
