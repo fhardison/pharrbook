@@ -55,11 +55,11 @@ The stem is what is left after we remove the endings. The table below shows the 
 | ο | κλίσις Ο |
 | σύμφωνον (consonant) | κλίσις σύμφωνον | 
 
-**Finally, Greek nouns have `γενή` (gender).**
+**Greek nouns have `γενός` (gender) which determines the form of words that modify them.**
 
-This determines the form of words that modify them. 
+We will talk about this more in coming lessons. 
 
-Sometimes it corresponds to biological gender, but often it does not. Greek has three genders:
+Sometimes a noun's γενός corresponds to biological gender, but often it does not. Greek has three γενή:
 
 * `ἀρσενικόν` (masculine),
 * `θηλυκόν` (feminine), and 
