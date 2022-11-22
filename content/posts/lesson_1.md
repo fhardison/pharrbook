@@ -28,7 +28,7 @@ Greek nouns change their ending to show:
 * `δυϊκός` (dual), which refers to two things, but is rare to nonexistant in the New Testament, and
 * `πληθυντικός` (plural), which refers to more than one thing.
 
-For example, ὄνομα is singular. ὀνόματα is plural. Notice how the ending has changed. In the πλητυντικός there is _τα_.
+For example, ὄνομα is singular. ὀνόματα is plural. Notice how the ending has changed. In the πληθυντικός there is _τα_.
 
 Now we need to learn `ἔστιν`, which means 'is'. 
 
@@ -66,7 +66,7 @@ Sometimes a noun's γένος corresponds to biological gender, but often it doe
 * `θηλυκόν` (feminine), and 
 * `οὐδέτερον` (neuter).
 
-Now we need to learn our first phrase to discuss a Greek nouns, `ἐπὶ τῆς κλισέως X`, which means 'in the X declension'. We also need to learn the word `ὄ` which means 'that' (as in the man _that_ I saw ...).
+Now we need to learn our first phrase to discuss Greek ὄνοματα, `ἐπὶ τῆς κλισέως X`, which means 'in the X declension'. We also need to learn the word `ὄ` which means 'that' (as in "the man _that_ I saw ...").
 
 The following statements are usually true. 
 
@@ -106,7 +106,7 @@ So we can say the following about these words:
 
 The endings are summarized below.
 
-| |Ο-κλίσις, ἀρσενικόν| Α-κλίσις, θηλυκόν| Ο-κλίσις, οὐδετερόν|
+| |κλίσις Ο, ἀρσενικόν| κλίσις Α, θηλυκόν| κλίσις Ο, οὐδετερόν|
 |:---|:-------|:------|:-----|
 |ἑνικός |ς | α, η | ν|
 |πληθυντικός | οι | αι | α | 
@@ -114,7 +114,7 @@ The endings are summarized below.
 
 ### Summary
 
-Greek ὄνοματα have the following attributes:
+Greek ὀνόματα have the following attributes:
 
 * ἀριθμός
     * ἐνικόν
@@ -128,6 +128,7 @@ Greek ὄνοματα have the following attributes:
     * κλίσις Ο
     * κλίσις σύμφωνα
 * πρῶσις
+    * ὀρθή
 
 ## λέξεις (Vocabulary)
 
