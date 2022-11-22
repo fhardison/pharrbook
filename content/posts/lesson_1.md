@@ -4,12 +4,14 @@ reading = "JHN 1:1"
 date = "2022-11-21"
 +++
 
+**Greek words change form to show their function in a sentence and to tell us what or who they refer to.**
+
+This is true of nouns which are the topic of this lesson.
 
 ## γραμματική (Grammar)
 
-**Greek words change form to show their function in a sentence and to tell us what or who they refer to.**
 
-`Nouns` are _what_ we talk about.
+Nouns are _what_ we talk about.
 
 A noun is a person, place, thing, or idea. The Greek word for a noun is `ὄνομα`, which literally means 'name'. 
 
@@ -22,12 +24,9 @@ Greek nouns change their ending to show:
 
 **New Testament Greek has three ἀριθμοἰ**:{{% sidenote %}}ἀριθμ**οί** is the plural of ἀριθμ**ός**.{{% /sidenote %}}
 
-* `ἑνικός` or singular, which refers to one thing,
-* `δυϊκός` or dual, which refers to two things, but is rare to nonexistant in the New Testament, and
-* `πληθυντικός` or plural, which refers to more than one thing.
-
-
-
+* `ἑνικός` (singular), which refers to one thing,
+* `δυϊκός` (dual), which refers to two things, but is rare to nonexistant in the New Testament, and
+* `πληθυντικός` (plural), which refers to more than one thing.
 
 For example, ὄνομα is singular. ὀνόματα is plural. Notice how the ending has changed. In the πλητυντικός there is _τα_.
 
@@ -47,13 +46,13 @@ We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' t
 
 This is called their `κλίσις` (declension). 
 
-The stem is what is left after we remove the endings. The table below shows the stem based on its final letter.
+The stem is what is left after we remove the endings. If the stem of a word ends with _α_, it is κλίσις Α. If it ends with _ο_, it is κλίσις Ο. If it ends with a consonant (σύμφωνον), it is κλίσις σύμφωνον. This is summarized in table below.
 
 | Stem ending | κλίσις | 
 |:----|:----|
 | α | κλίσις Α | 
 | ο | κλίσις Ο |
-| σύμφωνον (consonant) | κλίσις σύμφωνον | 
+| σύμφωνον | κλίσις σύμφωνον | 
 
 **Greek nouns have `γενός` (gender) which determines the form of words that modify them.**
 
@@ -79,7 +78,6 @@ We can also say the following things about some words we have already learned:
 * τὸ ὄνομά ἐστιν οὐδέτερον.
 * τὸ κλίσις ἐστὶν ἐπὶ τῆς κλισέως Α.{{% sidenote %}}The word κλίσις is in the A declension.{{% /sidenote %}}
 * τὸ κλίσις ἐστὶν θηλυκὀν. 
-
 
 
 **The πτώσεις of a noun shows its function in the sentence.**
