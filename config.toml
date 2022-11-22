@@ -1,7 +1,7 @@
 baseURL = 'https://amindforlanguage.com/pharrbook/'
 theme = 'hugotex'
 author = "Fletcher Hardison"
-title = "A New Testament Greek Course Based Inspired by Pharr"
+title = "A New Testament Greek Course Inspired by Pharr"
 paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"

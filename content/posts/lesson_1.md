@@ -56,11 +56,11 @@ The stem is what is left after we remove the endings. If the stem of a word ends
 | ο | κλίσις Ο |
 | σύμφωνον | κλίσις σύμφωνον | 
 
-**Greek nouns have `γενός` (gender) which determines the form of words that modify them.**
+**Greek nouns have `γένος` (gender) which determines the form of words that modify them.**
 
 We will talk about this more in coming lessons. 
 
-Sometimes a noun's γενός corresponds to biological gender, but often it does not. Greek has three γενή:
+Sometimes a noun's γένος corresponds to biological gender, but often it does not. Greek has three γένη:
 
 * `ἀρσενικόν` (masculine),
 * `θηλυκόν` (feminine), and 
@@ -119,7 +119,7 @@ Greek ὄνοματα have the following attributes:
 * ἀριθμός
     * ἐνικόν
     * πληθυντικόν
-* γενή
+* γένη
     * ἀρσενικόν
     * θηλυκόν
     * οὐδέτερον
