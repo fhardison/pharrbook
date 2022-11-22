@@ -34,6 +34,8 @@ Now we need to learn `ἔστιν`, which means 'is'.
 
 We also need to learn `τὀ`, which is a form of the Greek word meaning 'the' that is used when mentioning words. We can think of its meaning as 'The word/phrase ___' when it is used this way. 
 
+Now we can say the following things:
+
 * τὸ ὄνομά ἐστιν ἑνικόν. (The word ὄνομα is singular)
 * τὸ ὀνόμα**τά** ἐστι{{% sidenote %}} When ἔστιν comes before a word that starts with a consonant, the _ν_ usually disappears. This is called a movable nu.{{% /sidenote %}} πληθυντικός. (The word ὀνόματα is plural) 
 * τὸ ἀριθμ**ὀς** ἐστιν ἑνικόν. 
@@ -177,4 +179,4 @@ Read the following:
 
 * How do two translations translate this verse? 
 * Do they expand anything?
-* How do they translate λόγος? 
+* How do they translate λόγος?
