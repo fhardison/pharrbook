@@ -19,7 +19,7 @@ A noun is a person, place, thing, or idea. The Greek word for a noun is `ὄνο
 Greek nouns change their ending to show:
 
 * how many things they refer to (known as `ἀριθμός` or number), and
-* to show their role in the sentence (known as `πτώσεις` or case) 
+* to show their role in the sentence (known as `πτῶσις` or case) 
 
 
 **New Testament Greek has three ἀριθμοἰ**:{{% sidenote %}}ἀριθμ**οί** is the plural of ἀριθμ**ός**.{{% /sidenote %}}
@@ -82,7 +82,7 @@ We can also say the following things about some words we have already learned:
 * τὸ κλίσις ἐστὶν θηλυκὀν. 
 
 
-**The πτώσεις of a noun shows its function in the sentence.**
+**The πτῶσις of a noun shows its function in the sentence.**
 
 Greek has 5 πτώσεις, but we're going to focus on one in this lesson: `ὀρθή` (nominative).
 
@@ -127,6 +127,7 @@ Greek ὄνοματα have the following attributes:
     * κλίσις Α
     * κλίσις Ο
     * κλίσις σύμφωνα
+* πρῶσις
 
 ## λέξεις (Vocabulary)
 
