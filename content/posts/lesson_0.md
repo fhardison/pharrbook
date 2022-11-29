@@ -4,7 +4,7 @@ date = "2022-11-21"
 +++
 
 
-This book is an introduction to New Testament Greek.
+This book is an introduction to New Testament Greek. It is inspired by Clyde Pharr's _Homeric Greek: A Book for Beginners_. 
 
 It aims to teach Greek through reading John's Gospel, and learning grammar and vocabulary as needed to read, really read, the Greek text. John has a relatively low number of vocabulary items{{% sidenote %}}<https://amindforlanguage.com/greek/2022/08/23/john-stats.html>{{% /sidenote %}} to learn but is long enough to expose learners to a good deal of content.
 
