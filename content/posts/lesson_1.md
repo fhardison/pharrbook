@@ -2,6 +2,7 @@
 title = "Lesson 1: Greek nouns"
 reading = "JHN 1:1"
 date = "2022-11-21"
+weight = 2
 +++
 
 **Greek words change form to show their function in a sentence and to tell us what or who they refer to.**

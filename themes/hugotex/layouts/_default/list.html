@@ -7,7 +7,7 @@
         {{ $pag := .Paginator.Pages }}
       {{ end }}
 
-      {{ range .Paginator.Pages }}
+      {{range .Paginator.Pages }}
         {{ partial "preview.html" . }}
       {{ end }}
       </div>

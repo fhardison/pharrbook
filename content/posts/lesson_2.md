@@ -1,7 +1,8 @@
 +++
-title = "Lesson 2"
+title = "Lesson 2: Greek nouns and the article"
 reading = "JHN 1:1-5"
 date = "2022-11-29"
+weight = 3
 +++
 
 In this lesson we'll learn more about Greek ὀνόματα.
